@@ -1,0 +1,54 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CustomFunctionCriteriaOperatorVB.Module", "CustomFunctionCriteriaOperatorVB.Module\CustomFunctionCriteriaOperatorVB.Module.vbproj", "{9705C45C-DD6E-428F-B66C-2903EA6DA552}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CustomFunctionCriteriaOperatorVB.Module.Web", "CustomFunctionCriteriaOperatorVB.Module.Web\CustomFunctionCriteriaOperatorVB.Module.Web.vbproj", "{C9E9534A-A594-4699-907F-4A0808D4F264}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CustomFunctionCriteriaOperatorVB.Web", "CustomFunctionCriteriaOperatorVB.Web\CustomFunctionCriteriaOperatorVB.Web.vbproj", "{B8E25CDE-F55F-48E1-84F6-7BA71AA30442}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CustomFunctionCriteriaOperatorVB.Module.Win", "CustomFunctionCriteriaOperatorVB.Module.Win\CustomFunctionCriteriaOperatorVB.Module.Win.vbproj", "{49D8A95A-E25C-4A40-80BF-18F1F19E700A}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CustomFunctionCriteriaOperatorVB.Win", "CustomFunctionCriteriaOperatorVB.Win\CustomFunctionCriteriaOperatorVB.Win.vbproj", "{12BD0B24-4B35-4995-85CB-DCB2F433BB60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		EasyTest|Any CPU = EasyTest|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9705C45C-DD6E-428F-B66C-2903EA6DA552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9705C45C-DD6E-428F-B66C-2903EA6DA552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9705C45C-DD6E-428F-B66C-2903EA6DA552}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{9705C45C-DD6E-428F-B66C-2903EA6DA552}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{9705C45C-DD6E-428F-B66C-2903EA6DA552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9705C45C-DD6E-428F-B66C-2903EA6DA552}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9E9534A-A594-4699-907F-4A0808D4F264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9E9534A-A594-4699-907F-4A0808D4F264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9E9534A-A594-4699-907F-4A0808D4F264}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{C9E9534A-A594-4699-907F-4A0808D4F264}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{C9E9534A-A594-4699-907F-4A0808D4F264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9E9534A-A594-4699-907F-4A0808D4F264}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8E25CDE-F55F-48E1-84F6-7BA71AA30442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8E25CDE-F55F-48E1-84F6-7BA71AA30442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8E25CDE-F55F-48E1-84F6-7BA71AA30442}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{B8E25CDE-F55F-48E1-84F6-7BA71AA30442}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{B8E25CDE-F55F-48E1-84F6-7BA71AA30442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8E25CDE-F55F-48E1-84F6-7BA71AA30442}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49D8A95A-E25C-4A40-80BF-18F1F19E700A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49D8A95A-E25C-4A40-80BF-18F1F19E700A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49D8A95A-E25C-4A40-80BF-18F1F19E700A}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{49D8A95A-E25C-4A40-80BF-18F1F19E700A}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{49D8A95A-E25C-4A40-80BF-18F1F19E700A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49D8A95A-E25C-4A40-80BF-18F1F19E700A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12BD0B24-4B35-4995-85CB-DCB2F433BB60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12BD0B24-4B35-4995-85CB-DCB2F433BB60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12BD0B24-4B35-4995-85CB-DCB2F433BB60}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{12BD0B24-4B35-4995-85CB-DCB2F433BB60}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{12BD0B24-4B35-4995-85CB-DCB2F433BB60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12BD0B24-4B35-4995-85CB-DCB2F433BB60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
