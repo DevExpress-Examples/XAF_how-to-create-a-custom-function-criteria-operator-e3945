@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Company.cs](./CS/CustomFunctionCriteriaOperator.Module/BusinessObjects/Company.cs)
+* [Employee.cs](./CS/CustomFunctionCriteriaOperator.Module/BusinessObjects/Employee.cs)
+* [ValidatedObject.cs](./CS/CustomFunctionCriteriaOperator.Module/BusinessObjects/ValidatedObject.cs)
+* [CurrentCompanyOidParameter.cs](./CS/CustomFunctionCriteriaOperator.Module/CurrentCompanyOidParameter.cs)
+* [Module.cs](./CS/CustomFunctionCriteriaOperator.Module/Module.cs)
+<!-- default file list end -->
 # How to: Create a Custom Function Criteria Operator
 
 
